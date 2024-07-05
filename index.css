@@ -22,3 +22,24 @@
     background-color: #e9d2e3; 
     color: rgb(188, 73, 73); 
   }
+  .content{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    display: flex;
+    border: 1px;
+    background-color: bisque;
+    text-align: center;
+  
+  }
+  .text-container {
+    display: grid;
+    background-color: rgb(230, 135, 235);
+    margin-right:10px;
+    text-align: center;
+  }
+  
+  .image-container {
+    text-align: center; 
+    margin: 0 auto; 
+    padding: 20px; 
+  }
