@@ -22,3 +22,27 @@
       background-color: #ddd; 
       color: rgb(103, 31, 31); 
     }
+      
+    
+    
+    
+    
+    .red {
+        display: flex;
+        padding: 50px;
+      }
+      
+      .blue{
+        display: inline-block;
+        width: 400px;
+        margin: 20px;
+      }
+      
+      .red img {
+        width: 300px;
+        height: 300px;
+      }
+      
+      .about {
+        width: 800px;
+      }
